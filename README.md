@@ -44,8 +44,8 @@ Require the db an initialize it:
                 db.update({"hostname" : "localhost"}, {"port" : 1337}, function(err){
                     console.log('Finished updating...');
 
-                    //let's delete every document that have the key "port"
-                    //with the valye 8001
+                    //let's delete every document that have the key "user"
+                    //with the valye "myuser"
                     db.delete({"user" : "myuser"}, function(err){
                         if(err) throw err;
                         console.log('Finished deleting...');
