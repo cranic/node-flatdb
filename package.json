@@ -1,0 +1,24 @@
+{
+    "author": {
+        "name": "Alan Hoffmeister",
+        "email": "contato@cranic.com.br",
+        "url": "https://github.com/cranic"
+    },
+    "name": "flatdb",
+    "description": "Flat database for non-intensive use. JSON files based database.",
+    "version": "0.0.1",
+    "homepage": "https://github.com/cranic/node-flatdb",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/cranic/node-flatdb.git"
+    },
+    "dependencies": {
+        "coffee-script" : "1.3.x",
+        "async" : "0.1.x"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
