@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cranic/node-flatdb.png)](http://travis-ci.org/cranic/node-flatdb)
 node-flatdb
 ===========
 FlatDB it's a database based on JSON files, it's intended to help save 
